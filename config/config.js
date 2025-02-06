@@ -2,10 +2,10 @@ require("dotenv").config()
 
 module.exports = {
     development: {
-        username: 'postgres',
-        password: 'assey',
-        database: 'postgres',
-        host: '127.0.0.1',
+        username: 'bgckrxlt',
+        password: 'OQ2TG25MyY8LMSy-NXsSaY4pLGNxXmTy',
+        database: 'bgckrxlt',
+        host: 'salt.db.elephantsql.com',
         port: 5432
     }
 }
